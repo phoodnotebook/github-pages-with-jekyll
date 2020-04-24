@@ -1,6 +1,6 @@
 ----
 title: "First Post"
-date: 04-23-2020
+date: 2020-04-23
 ----
 
 This is my first post
